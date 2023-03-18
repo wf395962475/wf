@@ -1,0 +1,42 @@
+/* footer */
+footer{
+    background: rgba(18, 113, 213, 0.39);
+    padding: 35px 0 30px 50px;
+    color: #f8f8f8;
+    /*height: 220px;*/
+    border: none;
+    text-align: left;
+}
+
+footer a {
+    color: #fff;
+}
+
+div[id=font]{
+    float:left;
+    font-size: 20px;
+    line-height: 30px;
+    /*display: inline-block;*/
+
+}
+
+div[id=img1]{
+    float:right;
+    margin-right: 150px;
+	
+    /*display: inline-block;*/
+
+}
+
+.img01{
+	width: 260px;
+}
+
+/* 解决父级边框塌陷 */
+div[id=clear]{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+
