@@ -6,7 +6,7 @@
 ~~~
 {}{img_left}{Fan_Wu.jpeg}{alt text}{132px}{180px}{photo.jpg}
 
-Ph.D, Assistant Professor\n
+Ph.D, Associate Professor\n
 
 [https://cse.csu.edu.cn/ School of Computer Science and Engineering]\n
 [https://www.csu.edu.cn/ Central South University] \n
@@ -28,15 +28,23 @@ Email:      [mailto:wfwufan@csu.edu.cn wfwufan@csu.edu.cn]\n
 
 
 == Recent Publications ( [pub.html Full List] )
-- Wenxiong Chen, Mingliu Liu, *Fan Wu*, Huaqing Wu, Yuan Miao, Feng Lyu, Xuemin Shen. “[https://ieeexplore.ieee.org/document/10097492 MSM: Mobility-Aware Service Migration for Seamless Provision: A Data-Driven Approach]”, /IEEE Internet of Things Journal/, DOI:10.1109/JIOT.2023.3265434, to appear. *(Q1)* 
-- *Fan Wu*, Feng Lyu, Ju Ren, Peng Yang, Kai Qian, Shijie Gao, and Yaoxue Zhang. “[https://ieeexplore.ieee.org/document/10032660 Characterizing Internet Card User Portraits for Efficient Churn Prediction Model Design]”, /IEEE Transactions on Mobile Computing/, DOI: 10.1109/TMC.2023.3241206, to appear. *(CCF A)*
-- *Fan Wu*, Feng Lyu, Huqing Wu, Ju Ren, Yaoxue Zhang, and Xuemin (Sherman) Shen. “[https://ieeexplore.ieee.org/document/9877926 Characterizing User Association Patterns for Optimizing Small-Cell Edge System Performance]”, /IEEE Network/, DOI:10.1109/MNET.121.220008, to appear. *(Q1)*
+- Weimin Li, Zhengmao Yan, Zitong Li, Zeqiang Chen, *Fan Wu*, Wenxiong Chen, Jianxun Liu, Ju Ren, “Blockchain-Enabled Storage Resources Trading and Pricing for Collaborative Edges”, /IEEE Transactions on Mobile Computing/, Early access. DOI: 10.1109/TMC.2026.3672019. (Q1, CCF A)
+- Jieyu Zhou, Feng Lyu, Mingliu Liu, Shucheng Li, *Fan Wu*, Huali Lu, “[https://ieeexplore.ieee.org/document/11395342 U-Mesh+: Terrain-Aware, Robust, and Cost-Efficient UAV-Mesh Network Deployment for Inspection Tasks in Remote Areas]”, /IEEE Transactions on Networking/, vol. 34, pp. 3460-3475, Feb. 2026. *(Q1, CCF A)*
+- Jie Zhao, Feng Lyu, Hao Wu, Fan Wu, Shucheng Li, “[https://ieeexplore.ieee.org/document/11303971 Game in Motion: Heterogeneous Task Offloading in Dynamic Vehicular Edge Computing]”, /IEEE Transactions on Networking/, vol. 34, pp. 2332-2346, Dec. 2025. *(Q1, CCF A)*
+- Zhenya Ma, Yongheng Deng, Ziqing Qiao, Quan Zhang, Chijin Zhou, Fan Wu, Yaoxue Zhang, Ju Ren, “[https://ieeexplore.ieee.org/document/11422005 A Fine-Tuning Data Recovery Attack on Generative Language Models via Backdooring]”, /IEEE Transactions on Information Forensics and Security/, Early access. DOI: 10.1109/ TIFS.2026.3671126. *(Q1, CCF A)*
+- Qiyong Fu, Feng Lyu, Mingliu Liu, Hao Wu, Jieyu Zhou, Lijuan He, *Fan Wu*, Jinli Sun, Manjia Liu, “A3TP: Automated, Accurate, and Adaptive UAV TaskPlanning for Power Transmission Networks Inspection”, accepted to Proc. /ACM MobiCom'26/, 2026. *(CCF A)*
+- Wenjun Ding, Jingling Liu, Lixing Chen, Xiu Su, Tao Sun, *Fan Wu*, Zhe Qu, “[https://openreview.net/forum?id=l1L0Yhh6x6 On the Stability and Generalization of Meta-Learning: the Impact of Inner-Levels]”, accepted to /NeurIPS’25/. *(CCF A)*
+
+
 
 
 == Employment
 
-- Assistant Professor, since Nov. 2022 \n
-  Transparent Computing (TC) lab, School of Computer Science and Engineering, Central South University, China \n
+-- Associate Professor, since Jan. 2026 \n
+  School of Computer Science and Engineering, Central South University, China \n
+
+- Assistant Professor, Nov. 2022 - Jan. 2026 \n
+  School of Computer Science and Engineering, Central South University, China \n
 
 - Post-Doctoral Research Fellow, 2020 - 2022 \n
   Department of Computer Science and Technology, Tsinghua University, Beijing, China \n
@@ -45,6 +53,7 @@ Email:      [mailto:wfwufan@csu.edu.cn wfwufan@csu.edu.cn]\n
 == Research Interests
 
 - Edge for AI and AI for edge
+- Embodied intelligence
 - Internet of things (IoT)
 - Big data science and engineering
 - Computer network

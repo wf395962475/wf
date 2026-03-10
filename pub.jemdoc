@@ -4,7 +4,11 @@
 
 
 == Selected Journal & Magazine Papers
-. Wenxiong Chen, Mingliu Liu, * Fan Wu\* *, Huaqing Wu, Yuan Miao, Feng Lyu, Xuemin Shen. “MSM: Mobility-Aware Service Migration for Seamless Provision: A Data-Driven Approach”, IEEE Internet of Things Journal, DoI:10.1109/JIOT.2023.3265434, to appear. *(Q1)* 
+. Zhenya Ma, Yongheng Deng, Ziqing Qiao, Quan Zhang, Chijin Zhou, *Fan Wu*, Yaoxue Zhang, Ju Ren, “A Fine-Tuning Data Recovery Attack on Generative Language Models via Backdooring”, IEEE Transactions on Information Forensics and Security, Early access. DOI: 10.1109/ TIFS.2026.3671126. *(Q1, CCF A)*
+. Weimin Li, Zhengmao Yan, Zitong Li, Zeqiang Chen, *Fan Wu*, Wenxiong Chen, Jianxun Liu, Ju Ren, “Blockchain-Enabled Storage Resources Trading and Pricing for Collaborative Edges”, IEEE Transactions on Mobile Computing, Early access. DOI: 10.1109/TMC.2026.3672019. (Q1, CCF A)
+. Jieyu Zhou, Feng Lyu, Mingliu Liu, Shucheng Li, Fan Wu, Huali Lu, “U-Mesh+: Terrain-Aware, Robust, and Cost-Efficient UAV-Mesh Network Deployment for Inspection Tasks in Remote Areas”, IEEE Transactions on Networking, vol. 34, pp. 3460-3475, Feb. 2026. (Q1, CCF A)
+. Jie Zhao, Feng Lyu, Hao Wu, *Fan Wu*, Shucheng Li, “Game in Motion: Heterogeneous Task Offloading in Dynamic Vehicular Edge Computing”, IEEE Transactions on Networking, vol. 34, pp. 2332-2346, Dec. 2025. *(Q1, CCF A)*
+. *Fan Wu*, Qiyuan Wu, Zhaoyun Ding, Mingliu Liu, Manjia Liu, Feng Lyu, “GAE-LSTMs: An End-to-End Method for Topology Inference in Dynamic Communication Networks”, IEEE Transactions on Network Science and Engineering, vol. 13, pp. 2822-2837, Oct. 2025. *(Q1)*
 . *Fan Wu*, Feng Lyu, Ju Ren, Peng Yang, Kai Qian, Shijie Gao, and Yaoxue Zhang. “Characterizing Internet Card User Portraits for Efficient Churn Prediction Model Design”, IEEE Transactions on Mobile Computing, DOI: 10.1109/TMC.2023.3241206, to appear. *(Q1, CCF A)*
 . *Fan Wu*, Feng Lyu, Huqing Wu, Ju Ren, yaoxue Zhang, and Xuemin (Sherman) Shen. “Characterizing User Association Patterns for Optimizing Small-Cell Edge System Performance”, IEEE Network, DOI:10.1109/MNET.121.220008, to appear. *(Q1)* 
 . Weimin Li, Qin Li, Lin Chen, * Fan Wu\* *, and Ju Ren. “A Storage Resource Collaboration Model among Edge Nodes in Edge Federation Service”, IEEE Transactions on Vehicular Technology, vol. 71, no. 9, pp. 9212-9224, Jun. 2022. *(Q1)*
@@ -21,6 +25,11 @@
 
 
 == Selected Conference Papers
+. Qiyong Fu, Feng Lyu, Mingliu Liu, Hao Wu, Jieyu Zhou, Lijuan He, *Fan Wu*, Jinli Sun, Manjia Liu, “A3TP: Automated, Accurate, and Adaptive UAV TaskPlanning for Power Transmission Networks Inspection”, Proc. ACM MobiCom'26, 2026. *(CCF A)*
+. Wenjun Ding, Jingling Liu, Lixing Chen, Xiu Su, Tao Sun, *Fan Wu*, Zhe Qu, “On the Stability and Generalization of Meta-Learning: the Impact of Inner-Levels”, Proc. NeurIPS’25. *(CCF A)*
+. Yongheng Deng, Ningxin He, Xinyi Li, *Fan Wu*, Yaoxue Zhang, and Ju Ren. 2025. “Cross-Modal Federated Learning Among Unimodal Devices”. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 9, 3, Article 78 (September 2025), 26 pages. *(UbiComp, CCF A)*
+. Wenjun Ding, Ying An, Lixing Chen, Shichao Kan, *Fan Wu*, Zhe Qu, “How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?”，Proc. AAAI, 39(15), 16280-16288, 2025. *(CCF A)*
+. Feng Lyu, Jie Zhang, Huali Lu, Huaqing Wu, *Fan Wu*, Yongmin Zhang, Yaoxue Zhang, “SynthCAT: Synthesizing Cellular Association Traces with Fusion of Model-Based and Data-Driven Approaches”, Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 8, 4, Article 161 (November 2024), 24 pages. *(UbiComp, CCF A)*
 . *Fan Wu*, Ju Ren, Feng Lyu, Peng Yang, Yongmin Zhang, Deyu Zhang, and Yaoxue Zhang. “Boosting Internet Card Cellular Business via User Portraits: A Case of Churn Prediction”, In Proc. IEEE INFOCOM’22, London, United Kingdom, May 2-5, 2022. *(CCF A)*
 . Wang Yang, *Fan Wu*, and Kaijin Tian. “High Performance Adaptive Video Streaming using NDN WLAN Multicast”. In Proc. ACM ICN'21, September 22-14, 2021, Paris, France. (Top 1 in ICN) 
 . *Fan Wu*, Wang Yang, Ju Ren, Feng Lyu, Xiaojie Ding, and Yaoxue Zhang. “Adaptive Video Streaming Using Dynamic NDN Multicast in WLAN”. In Proc. IEEE INFOCOM’20 (Workshop), Toronto, Canada, July 6-9, 2020. 
